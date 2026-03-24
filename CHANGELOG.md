@@ -2,6 +2,52 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-24)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11099](https://github.com/stdlib-js/stdlib/issues/11099)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a23f66e`](https://github.com/stdlib-js/stdlib/commit/a23f66e92903ea4bd88c0fb0bfcd49c80d17ddf7) - **chore:** remove unused ESLint directive [(#11100)](https://github.com/stdlib-js/stdlib/pull/11100) _(by Matt Van Horn)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Matt Van Horn
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
